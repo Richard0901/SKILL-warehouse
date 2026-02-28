@@ -31,3 +31,6 @@
 - Script uses `robocopy /MIR`, so remote content will match local `D:\Life\SKILLs` exactly.
 - Local clone path defaults to `D:\Life\private\SKILL-warehouse`.
 - If no file changes are detected, script exits without creating a commit.
+- Script auto-uses absolute executables:
+  - Git: `C:\Program Files\Git\bin\git.exe` (fallback auto-detect)
+  - Robocopy: `C:\Windows\System32\robocopy.exe`
