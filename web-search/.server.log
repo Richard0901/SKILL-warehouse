@@ -800,3 +800,4 @@ Failed to start server: Error: listen EADDRINUSE: address already in use 127.0.0
 [Google] Page loaded: https://www.google.com/search?q=glomus%20tumor%20pathologist%20authors%20research%202024-2025&hl=en
 [Google] Search results found
 [Google] Extracted 5 results in 1705ms
+[Browser stderr] [921884:923448:0302/082340.963:ERROR:components\device_event_log\device_event_log_impl.cc:248] [08:23:40.751] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
