@@ -1,0 +1,7 @@
+interface:
+  display_name: "NotebookLM"
+  short_description: "Use NotebookLM CLI from Codex"
+  default_prompt: "Use $notebooklm to manage notebooks, add sources, and ask questions from Codex."
+
+policy:
+  allow_implicit_invocation: true

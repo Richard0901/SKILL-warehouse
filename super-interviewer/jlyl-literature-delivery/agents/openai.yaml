@@ -1,0 +1,7 @@
+interface:
+  display_name: "JLYL Literature Delivery"
+  short_description: "Authorized fallback for literature PDFs"
+  default_prompt: "Use $jlyl-literature-delivery to retrieve this paper PDF after Open Access and AI4Scholar routes fail."
+
+policy:
+  allow_implicit_invocation: true
